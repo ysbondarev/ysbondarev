@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### :man_technologist: About Me :
+**My name is Yuri Bondarev. I am a mechanical engineer. A novice specialist in Data Science and Machine learning.**
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
