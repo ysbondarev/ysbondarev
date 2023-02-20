@@ -22,6 +22,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C++" width="60" height="60"/>
 </div>
 
+### :gear: Github Analytics :
+
+<p align="center">
+  <a href="https://github.com/KirillErokhin/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ysbondarev&show_icons=true&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysbondarev&layout=compact&theme=dracula"/>
+  </a>
+</p>
+
 ---
 <!--
 **ysbondarev/ysbondarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
